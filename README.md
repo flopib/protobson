@@ -1,6 +1,7 @@
 # protobson
 
 [![GoDev](https://img.shields.io/static/v1?label=godev&message=reference&color=00add8)](https://pkg.go.dev/mod/github.com/flopib/protobson)
+[![Go Report Card](https://goreportcard.com/badge/github.com/flopib/protobson)](https://goreportcard.com/report/github.com/flopib/protobson)
 
 ## Description
 
